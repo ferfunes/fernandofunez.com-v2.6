@@ -217,7 +217,7 @@ export const Portfolio = () => {
 									src={life_in_roatan}
 								/>
 							</div>
-							<div className="card-back bg-white">
+							<div className="card-back bg-white mb-5">
 								<div className="card-body">
 									<h3 className="card-title">
 										Lifeinroatan.com

@@ -144,7 +144,7 @@ export const Dj = () => {
 						height="100%"
 					/>
 				</div>
-				<div className="player-wrapper ml-5 mr-5">
+				<div className="player-wrapper mb-5 ml-5 mr-5">
 					<ReactPlayer
 						className="react-player"
 						url="https://www.mixcloud.com/fernandofumes/fernando-fumes-miami-session-3/"

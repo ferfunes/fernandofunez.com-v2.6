@@ -192,7 +192,7 @@ export const Skills = () => {
 							className="skill-card-img9 card-img-top img-fluid "
 							alt="Python logo"
 						/>
-						<div className="card-body text-center">
+						<div className="card-body text-center mb-5">
 							<Progress
 								className="progbar1"
 								type="circle"

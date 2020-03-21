@@ -1,7 +1,7 @@
 import React from "react";
 
 export const Footer = () => (
-	<footer className="container-fluid footer">
+	<footer className="footer-wrapper container-fluid footer mt-5">
 		<div className="footer-cont2 row justify-content-center">
 			<div className="foo  text-center text-secondary ">
 				<a

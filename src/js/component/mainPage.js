@@ -8,7 +8,7 @@ import fernando_funez_resume_2 from "../../img/fernando_funez_resume_2.jpg";
 export const MainPage = () => {
 	return (
 		<div className=" main-cont ">
-			<div className="row p-0 m-0">
+			<div className="row m-0 p-0">
 				<div className="text-cont ml-4 mr-4 ">
 					<div className="welcome">
 						<h1>

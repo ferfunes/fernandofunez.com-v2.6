@@ -121,7 +121,7 @@ export const MainPage = () => {
 					<br />
 					<span className="f-style2">
 						{" "}
-						I am a professional
+						I am a professional{" "}
 						<Link
 							to="/Dj"
 							className=" dj-word"

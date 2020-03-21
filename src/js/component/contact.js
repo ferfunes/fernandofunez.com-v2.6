@@ -4,7 +4,7 @@ import { Footer } from "../component/footer";
 
 export const Contact = () => {
 	return (
-		<div className="">
+		<div className="contact-full-wrapper">
 			<div className=" contact-wrapper">
 				<div className="contact-title text-center">
 					<h1>GET IN TOUCH</h1>

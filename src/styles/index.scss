@@ -184,6 +184,16 @@
 .card-deck {
   margin-top: 200px;
 }
+.card-cont{
+  
+  
+  margin: auto;
+
+  width: 100%;
+  margin-top: -30px;
+  margin-bottom: 200px;
+  line-height: 70px;
+}
 .skill-card1,
 .skill-card2,
 .skill-card3 {
@@ -332,6 +342,7 @@
   height: 100px;
   position: fixed;
   bottom: 0;
+  top: 30;
   width: 100%;
 }
 

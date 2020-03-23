@@ -152,6 +152,14 @@ export const Dj = () => {
 						height="100%"
 					/>
 				</div>
+                <br />
+							<br />
+							<br />
+							<br />
+							<br />
+							<br />
+							<br />
+							<br />
 
 				<Footer />
 			</div>

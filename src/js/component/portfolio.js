@@ -25,7 +25,7 @@ export const Portfolio = () => {
 				<div className="row">
 					<div className=" col-sm-12 col-m-6 col-lg-4 mb-2">
 						<div className="card card-flip ">
-							<div className="card-front d-flex align-items-center">
+							<div className="card-front d-flex bg-white align-items-center">
 								<img
 									className="portfolio-image img-fluid "
 									alt="travel app"
@@ -64,7 +64,7 @@ export const Portfolio = () => {
 					</div>
 					<div className="col-sm-12 col-m-6 col-lg-4 mb-2">
 						<div className="card card-flip ">
-							<div className="card-front ">
+							<div className="card-front  ">
 								<img
 									className="portfolio-image-lumina img-fluid"
 									alt="Graphic Designer Portfolio"
@@ -139,7 +139,7 @@ export const Portfolio = () => {
 
 					<div className="col-sm-12 col-m-6 col-lg-4 mb-2">
 						<div className="card card-flip ">
-							<div className="card-front d-flex align-items-center">
+							<div className="card-front bg-white d-flex align-items-center">
 								<img
 									className="portfolio-image-ff img-fluid"
 									alt="fernando funez website"
@@ -210,7 +210,7 @@ export const Portfolio = () => {
 					</div>
 					<div className="col-sm-12 col-m-6 col-lg-4 mb-2">
 						<div className="card card-flip ">
-							<div className="card-front ">
+							<div className="card-front bg-white">
 								<img
 									className="portfolio-image-liferoa img-fluid"
 									alt="lifeinroatan.com"

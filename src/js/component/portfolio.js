@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { Footer } from "../component/footer";
-import email_template from "../../img/email_template.png";
-import fernando_funez_com from "../../img/fernando_funez_com.png";
-import life_in_roatan from "../../img/life_in_roatan.png";
+import email_template from "../../img/email_template.jpg";
+import fernando_funez_com from "../../img/fernando_funez_com.jpg";
+import life_in_roatan from "../../img/life_in_roatan.jpg";
 import lumina_logo from "../../img/lumina_logo.jpg";
 import pig_dice_game from "../../img/pig_dice_game.png";
-import wander_tracker_logo from "../../img/wander_tracker_logo.png";
+import wander_tracker_logo from "../../img/wander_tracker_logo.jpg";
 
 export const Portfolio = () => {
 	return (
@@ -66,7 +66,7 @@ export const Portfolio = () => {
 						<div className="card card-flip ">
 							<div className="card-front ">
 								<img
-									className="img-fluid"
+									className="portfolio-image-lumina img-fluid"
 									alt="Graphic Designer Portfolio"
 									src={lumina_logo}
 								/>

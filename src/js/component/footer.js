@@ -16,12 +16,7 @@ export const Footer = () => (
 					rel="noopener noreferrer">
 					<i className="icon fab fa-linkedin mr-3" />
 				</a>
-				<a
-					href="https://www.instagram.com/djfumes/"
-					target="_blank"
-					rel="noopener noreferrer">
-					<i className="icon fab fa-instagram" />
-				</a>
+
 				<div className="footer-copyright mt-3">
 					© 2020 Copyright:
 					<a

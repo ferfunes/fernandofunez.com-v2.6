@@ -126,7 +126,7 @@ export const Portfolio = () => {
 										Go to Project
 									</a>
 									<a
-										href="https://elated-villani-09ad56.netlify.com/"
+										href="https://github.com/ferfunes/HTML-CSS-Email"
 										target="_blank"
 										rel="noopener noreferrer"
 										className="btn btn-outline-secondary ">
@@ -152,11 +152,10 @@ export const Portfolio = () => {
 										Fernandofunez.com
 									</h3>
 									<p className="card-text">
-										My personal website showing my skills,
-										portfolio with projects, resume etc.
-										Built with a simple minimalistic style
-										using Reactjs, bootstrap, css and some
-										npm libraries.
+										Personal website showcasing skills,
+										portfolio and projects. Built with a
+										simple minimalistic style using Reactjs,
+										bootstrap, css and npm libraries.
 									</p>
 
 									<a

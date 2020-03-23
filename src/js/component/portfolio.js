@@ -235,15 +235,16 @@ export const Portfolio = () => {
 									</a>
 								</div>
 							</div>
-							<br />
-							<br />
-							<br />
-							<br />
-							<br />
-							<br />
-							<br />
-							<br />
+							
 						</div>
+                        <br />
+							<br />
+							<br />
+							<br />
+							<br />
+							<br />
+							<br />
+							<br />
 					</div>
 				</div>
 

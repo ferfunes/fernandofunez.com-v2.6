@@ -115,7 +115,7 @@ export const MainPage = () => {
 							</div>
 						</span>
 						<span className="f-style2">
-							Btw, did I mentioned that I love photography,
+							Btw, did I mention that I love photography,
 						</span>
 					</span>
 					<br />
@@ -133,7 +133,7 @@ export const MainPage = () => {
 					<span className="f-style10">Now that you know me,</span>
 					<span className="f-style10">
 						{" "}
-						I would like to know how can I help you!
+						I would like to know how I can help you!
 						<Link
 							to="/contact"
 							className="contact-word"
